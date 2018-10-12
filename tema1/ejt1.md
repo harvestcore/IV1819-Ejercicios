@@ -51,9 +51,9 @@ Ambos VPS ofrecen el mismo procesador, misma ram y misma configuración de disco
 
 - Coste de configuración: $50
 - Coste/mes los tres primeros meses: $110
-- Coste/mes los nueve meses restantes: $
+- Coste/mes los nueve meses restantes: $130
 
-130Total: $1550 ~ 1333,74€
+Total: $1550 ~ 1333,74€
 
 
 
@@ -72,17 +72,47 @@ Total: 1139,88€
 
 ### Portatil
 
-![lscpu_portatil](/home/angel/Dropbox/Universidad/4-Cuarto/Primer cuatri/IV/Ejercicios/tema1/img/lscpu_portatil.png)
+![lscpu_portatil](img/lscpu_portatil.png)
 
 
 
 ### Máquina virtual
 
-![lscpu_vm](/home/angel/Dropbox/Universidad/4-Cuarto/Primer cuatri/IV/Ejercicios/tema1/img/lscpu_vm.png)
+![lscpu_vm](img/lscpu_vm.png)
 
 
 
 ### Raspberry Pi 3B
 
-![lscpu_rpi3b](/home/angel/Dropbox/Universidad/4-Cuarto/Primer cuatri/IV/Ejercicios/tema1/img/lscpu_rpi3b.png)
+![lscpu_rpi3b](img/lscpu_rpi3b.png)
+
+
+
+## 4
+
+### Portatil
+
+![kvm_ok_portatil](img/kvm_ok_portatil.png)
+
+
+
+### Máquina virtual
+
+![kvm_ok_vm](img/kvm_ok_vm.png)
+
+
+
+### Raspberry Pi 3B
+
+![lscpu_rpi3b](img/kvm_ok_rpi3b.png)
+
+
+
+## 5 y 6
+
+Utilizo Dropbox como servicio de almacenamiento en la nube desde hace bastantes años. Lo uso como respaldo de todos mis prácticas y trabajos en la universidad. He ido obteniendo más almacenamiento con cupones gratuitos.
+
+![dropbox](img/dropbox.png)
+
+Para contenedores utilizo Docker ([mi perfil en hub.docker.com](https://hub.docker.com/u/harvestcore). Por otro lado también tengo cuenta en Heroku y en Microsoft Azure, gracias a un cupón gratuito que nos proporcionó [JJ](https://github.com/jj).
 

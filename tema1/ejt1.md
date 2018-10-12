@@ -47,7 +47,7 @@ Ambos VPS ofrecen el mismo procesador, misma ram y misma configuración de disco
 
 ### VPS en 1&1
 
-![vps1](/home/angel/Dropbox/Universidad/4-Cuarto/Primer cuatri/IV/Ejercicios/tema1/img/vps1.png)
+![vps1](img/vps1.png)
 
 - Coste de configuración: $50
 - Coste/mes los tres primeros meses: $110
@@ -59,7 +59,7 @@ Total: $1550 ~ 1333,74€
 
 ### VPS en OVH
 
-![vps2](/home/angel/Dropbox/Universidad/4-Cuarto/Primer cuatri/IV/Ejercicios/tema1/img/vps2.png)
+![vps2](img/vps2.png)
 
 - Coste de configuración: 0€
 - Coste/mes: 94,99€

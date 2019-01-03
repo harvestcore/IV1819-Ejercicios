@@ -27,3 +27,19 @@ Por otro lado, para probar los tests en Python, he creado varios tests para mi p
 Los tests anteriores comprueban que en caso de eliminar un usuario que no existe o crear una red ya existente se obtiene valor False. Por lo tanto estas funciones fallan (porque no se puede realizar lo que se pide y retornan False), pero los tests pasan porque era lo esperado.
 
 
+
+## 3
+
+He creado dos scripts de Python que ejecutan los tests de mi microservicio. El primero comprueba las funcionalidades del mismo y el segundo los despliegues web.
+
+- [Test class](https://github.com/harvestcore/IPContainer/blob/master/test/test_app_1_class.py)
+- [Test web](https://github.com/harvestcore/IPContainer/blob/master/test/test_app_2_api.py)
+
+
+
+## 4
+
+He instalado la versión más actual (hasta la fecha) de node.js. El archivo *package.json* corresponde a un proyecto que estoy creando (un bot de Mastodon).
+
+![node](img/node.png)
+
